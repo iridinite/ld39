@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f597ab186aa14c1468b84f0b2b375847
+timeCreated: 1501333467
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Electrotome
+  fontNames:
+  - SF Electrotome
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c65be03705425c45b9c3ab963defe7d, type: 3}
+  - {fileID: 12800000, guid: 9060fa3964e99004289d3942eaa32894, type: 3}
+  - {fileID: 12800000, guid: 8b1432ca668b02b4696ef855139965b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

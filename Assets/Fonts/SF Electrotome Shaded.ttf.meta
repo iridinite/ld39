@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 66451bc27edc82745b686d4483650db6
+timeCreated: 1501333467
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Electrotome Shaded
+  fontNames:
+  - SF Electrotome Shaded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20076ea3028be0f429b016f7f894f250, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

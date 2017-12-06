@@ -1,0 +1,13 @@
+# Made using Asset Forge (1.2.1)
+
+:models
+Aircraft/detail_propeller[(0, 0.4, 0);(90.0, 180.0, 0.0);(1.0, 1.0, 1.0);(0.0, 0.0, 0.0);blueSteel+_defaultMat]
+Primitives/cylinder_vertex[(0, 0, 0);(0.0, 180.0, 0.0);(0.2, 0.4, 0.2);(0.0, 0.0, 0.0);_defaultMat]
+
+:materials
+blueSteel[RGBA(0.027, 0.400, 0.694, 1.000);]
+_defaultMat[RGBA(1.000, 1.000, 1.000, 1.000);]
+
+:textures
+
+:extra

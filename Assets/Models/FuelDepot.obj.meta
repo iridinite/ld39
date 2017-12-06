@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: da601a882956bb948a1bb7066a01a9ef
+timeCreated: 1501335483
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: detail_solarPanel_58
+    100002: detail_solarPanel_59
+    100004: detail_solarPanel_60
+    100006: //RootNode
+    100008: roof_corner_19
+    100010: roof_square_22
+    100012: roof_square_23
+    100014: roof_window_52
+    100016: roof_window_53
+    100018: roof_window_54
+    100020: roof_window_55
+    100022: roof_window_56
+    100024: roof_window_57
+    100026: wall_garageDoorClosed_20
+    100028: wall_garageDoorClosed_42
+    100030: wall_straight_25
+    100032: wall_straight_37
+    100034: wall_straight_39
+    100036: wall_straight_43
+    100038: wall_straight_44
+    100040: default
+    400000: detail_solarPanel_58
+    400002: detail_solarPanel_59
+    400004: detail_solarPanel_60
+    400006: //RootNode
+    400008: roof_corner_19
+    400010: roof_square_22
+    400012: roof_square_23
+    400014: roof_window_52
+    400016: roof_window_53
+    400018: roof_window_54
+    400020: roof_window_55
+    400022: roof_window_56
+    400024: roof_window_57
+    400026: wall_garageDoorClosed_20
+    400028: wall_garageDoorClosed_42
+    400030: wall_straight_25
+    400032: wall_straight_37
+    400034: wall_straight_39
+    400036: wall_straight_43
+    400038: wall_straight_44
+    400040: default
+    2300000: detail_solarPanel_58
+    2300002: detail_solarPanel_59
+    2300004: detail_solarPanel_60
+    2300006: roof_corner_19
+    2300008: roof_square_22
+    2300010: roof_square_23
+    2300012: roof_window_52
+    2300014: roof_window_53
+    2300016: roof_window_54
+    2300018: roof_window_55
+    2300020: roof_window_56
+    2300022: roof_window_57
+    2300024: wall_garageDoorClosed_20
+    2300026: wall_garageDoorClosed_42
+    2300028: wall_straight_25
+    2300030: wall_straight_37
+    2300032: wall_straight_39
+    2300034: wall_straight_43
+    2300036: wall_straight_44
+    2300038: default
+    3300000: detail_solarPanel_58
+    3300002: detail_solarPanel_59
+    3300004: detail_solarPanel_60
+    3300006: roof_corner_19
+    3300008: roof_square_22
+    3300010: roof_square_23
+    3300012: roof_window_52
+    3300014: roof_window_53
+    3300016: roof_window_54
+    3300018: roof_window_55
+    3300020: roof_window_56
+    3300022: roof_window_57
+    3300024: wall_garageDoorClosed_20
+    3300026: wall_garageDoorClosed_42
+    3300028: wall_straight_25
+    3300030: wall_straight_37
+    3300032: wall_straight_39
+    3300034: wall_straight_43
+    3300036: wall_straight_44
+    3300038: default
+    4300000: detail_solarPanel_58
+    4300002: detail_solarPanel_59
+    4300004: detail_solarPanel_60
+    4300006: roof_corner_19
+    4300008: roof_square_22
+    4300010: roof_square_23
+    4300012: roof_window_52
+    4300014: roof_window_53
+    4300016: roof_window_54
+    4300018: roof_window_55
+    4300020: roof_window_56
+    4300022: roof_window_57
+    4300024: wall_garageDoorClosed_20
+    4300026: wall_garageDoorClosed_42
+    4300028: wall_straight_25
+    4300030: wall_straight_37
+    4300032: wall_straight_39
+    4300034: wall_straight_43
+    4300036: wall_straight_44
+    4300038: default
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

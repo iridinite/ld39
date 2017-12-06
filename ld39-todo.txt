@@ -1,0 +1,33 @@
+Todo:
+V Shop: cargo view
+V Shop: fuel tank upgrades?
+V Keyboard icons
+V Make flashlight a proper Input
+V Mineral distribution
+V Win condition, get unobtainium maybe?
+V Lose condition
+V Intro screen
+V How to play, or maybe tutorial popups
+V A name, how about that
+- Sound effects
+V Fuel low/critical warnings
+V Copper + Tin = Bronze
+? Fix digging horizontally if accelHor > 0
+V Instant pickup tiles
+V Fix unobtainium disappearing when cargo full
+
+Smelter recipes:
+V Iron + Platinum = Oragnium
+V Gold + Adamantium = Katanium
+
+In the unlikely event of too much time:
+- Hull damage
+V Cost balancing I guess
+
+Sounds:
+- Cursor move
+- Cursor confirm/cancel
+- Sell
+- Upgrade
+- Pickup
+- Maybe collision?
